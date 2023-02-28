@@ -1,0 +1,15 @@
+Epoch: 1, Loss: nan Train : 0.0987 Clean : 0.0850, Test  1: 0.0850, Test  2: 0.0850, Test  inf: 0.0850, Time: 755.2, Model: /content/drive/MyDrive/robust_union-master/MNIST/model_0
+Epoch: 2, Loss: nan Train : 0.0987 Clean : 0.0850, Test  1: 0.0850, Test  2: 0.0850, Test  inf: 0.0850, Time: 749.1, Model: /content/drive/MyDrive/robust_union-master/MNIST/model_0
+Epoch: 3, Loss: nan Train : 0.0987 Clean : 0.0850, Test  1: 0.0850, Test  2: 0.0850, Test  inf: 0.0850, Time: 749.9, Model: /content/drive/MyDrive/robust_union-master/MNIST/model_0
+Epoch: 4, Loss: nan Train : 0.0987 Clean : 0.0850, Test  1: 0.0850, Test  2: 0.0850, Test  inf: 0.0850, Time: 749.2, Model: /content/drive/MyDrive/robust_union-master/MNIST/model_0
+Epoch: 5, Loss: nan Train : 0.0987 Clean : 0.0850, Test  1: 0.0850, Test  2: 0.0850, Test  inf: 0.0850, Time: 748.8, Model: /content/drive/MyDrive/robust_union-master/MNIST/model_0
+Epoch: 6, Loss: nan Train : 0.0987 Clean : 0.0850, Test  1: 0.0850, Test  2: 0.0850, Test  inf: 0.0850, Time: 749.0, Model: /content/drive/MyDrive/robust_union-master/MNIST/model_0
+Epoch: 7, Loss: nan Train : 0.0987 Clean : 0.0850, Test  1: 0.0850, Test  2: 0.0850, Test  inf: 0.0850, Time: 749.0, Model: /content/drive/MyDrive/robust_union-master/MNIST/model_0
+Epoch: 8, Loss: nan Train : 0.0987 Clean : 0.0850, Test  1: 0.0850, Test  2: 0.0850, Test  inf: 0.0850, Time: 748.8, Model: /content/drive/MyDrive/robust_union-master/MNIST/model_0
+Epoch: 9, Loss: nan Train : 0.0987 Clean : 0.0850, Test  1: 0.0850, Test  2: 0.0850, Test  inf: 0.0850, Time: 748.6, Model: /content/drive/MyDrive/robust_union-master/MNIST/model_0
+Epoch: 10, Loss: nan Train : 0.0987 Clean : 0.0850, Test  1: 0.0850, Test  2: 0.0850, Test  inf: 0.0850, Time: 748.8, Model: /content/drive/MyDrive/robust_union-master/MNIST/model_0
+Epoch: 11, Loss: nan Train : 0.0987 Clean : 0.0850, Test  1: 0.0850, Test  2: 0.0850, Test  inf: 0.0850, Time: 748.7, Model: /content/drive/MyDrive/robust_union-master/MNIST/model_0
+Epoch: 12, Loss: nan Train : 0.0987 Clean : 0.0850, Test  1: 0.0850, Test  2: 0.0850, Test  inf: 0.0850, Time: 748.2, Model: /content/drive/MyDrive/robust_union-master/MNIST/model_0
+Epoch: 13, Loss: nan Train : 0.0987 Clean : 0.0850, Test  1: 0.0850, Test  2: 0.0850, Test  inf: 0.0850, Time: 748.7, Model: /content/drive/MyDrive/robust_union-master/MNIST/model_0
+Epoch: 14, Loss: nan Train : 0.0987 Clean : 0.0850, Test  1: 0.0850, Test  2: 0.0850, Test  inf: 0.0850, Time: 748.7, Model: /content/drive/MyDrive/robust_union-master/MNIST/model_0
+Epoch: 15, Loss: nan Train : 0.0987 Clean : 0.0850, Test  1: 0.0850, Test  2: 0.0850, Test  inf: 0.0850, Time: 749.2, Model: /content/drive/MyDrive/robust_union-master/MNIST/model_0
