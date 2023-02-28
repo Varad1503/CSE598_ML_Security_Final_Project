@@ -16,7 +16,15 @@ import argparse
 from fast_adv.attacks import DDN
 
 parser = argparse.ArgumentParser(description='Adversarial Training for MNIST', formatter_class=argparse.RawTextHelpFormatter)
-
+parser.add_argument("-gpu_id", help="Id of GPU to be used", type=int, default = 0)
+parser.add_argument("-model", help="Type of Adversarial Training: \n\t 0: l_inf \n\t 1: l_1 \n\t 2: l_2 \n\t 3: msd \n\t 4: avg \n\t 5: max \n\t 6: vanilla", type=int, default = 3)
+parser.add_argument("-batch_size", help = "Batch Size for Test Set (Default = 1000)", type = int, default = 1000)
+parser.add_argument("-attack", help = "Foolbox = 0; Custom PGD = 1, Min PGD = 2, Fast DDN = 3", type = int, default = 0)
+parser.add_argument("-restarts", help = "Default = 10", type = int, default = 10)
+parser.add_argument("-path", help = "To override default model fetching- Automatically appends '.pt' to path", type = str)
+parser.add_argument("-subset", help = "Subset of attacks in case of Foolbox", type = int, default = -1)
+parser.add_argument("-activation", help = "ReLU/Tanh", type = str, default = "relu")
+params = parser.parse_args()
 device_id = params.gpu_id
 batch_size = params.batch_size
 choice = params.model
