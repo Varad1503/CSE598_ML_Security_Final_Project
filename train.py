@@ -10,6 +10,11 @@ import time
 import argparse
 from mnist_funcs import *
 
+# python train.py -model 0 -epochs 20
+# python train.py -model 1 -epochs 20
+# python train.py -model 2 -epochs 20
+# python train.py -model 4 -alpha_l_2 0.2 -epsilon_l_1 12.0
+# python train.py -model 5
 
 def trainer(params, device_id, batch_size, choice, alpha_l_1, alpha_l_2, alpha_l_inf, num_iter, epochs, epsilon_l_1, epsilon_l_2, epsilon_l_inf, lr_mode, smallest_adv, n, opt_type, lr_max, resume, resume_iter,seed, randomize, k_map):
 
